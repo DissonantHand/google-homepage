@@ -1,0 +1,1 @@
+This is an exercise in recreating the appearance of the Google homepage. Completion of this exercise will show that I understand how to use HTML and CSS to design a webpage.
